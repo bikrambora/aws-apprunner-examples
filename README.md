@@ -1,4 +1,4 @@
-# AWS App Runner
+# AWS App Runner | Resources
 
 ### Rapidly build and deploy applications using AWS App Runner 
 
@@ -10,8 +10,8 @@
 
 * [Public Roadmap](https://github.com/aws/apprunner-roadmap)
 
-* [Learn AWS App Runner using this workshop](https://www.apprunnerworkshop.com/getting-started/)
+* [Learn AWS App Runner using this Workshop](https://www.apprunnerworkshop.com/getting-started/)
 
 * [AWS App Runner livestream on Youtube](https://www.youtube.com/watch?v=HJsULvSJWes)
 
-* [Test immediately using Sample App opn Github](https://github.com/aws-containers/hello-app-runner)
+* [Test immediately using Sample App on GitHub](https://github.com/aws-containers/hello-app-runner)
