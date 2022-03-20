@@ -15,3 +15,7 @@
 * [AWS App Runner livestream on Youtube](https://www.youtube.com/watch?v=HJsULvSJWes)
 
 * [Test immediately using Sample App on GitHub](https://github.com/aws-containers/hello-app-runner)
+
+* [Run a .NET core application on AWS App Runner](https://github.com/aws-samples/aws-apprunner-netcore)
+
+* [Networking with AWS App Runner](https://docs.aws.amazon.com/apprunner/latest/dg/network.html)
